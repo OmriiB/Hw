@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/Vs55QWR.png" group-title="Undefined",As a Child (576p)
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" group-title="News",Channel 2 News
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" group-title="News",Channel 2 News
+https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/2RC8nh6.jpg" group-title="Music",Channel 24 (720p)
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Discovery Channel [Geo]
+http://s1-p3.peer5.net/edge/44-1.stream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Disney Channel [Geo]
+http://s1-p3.peer5.net/edge/41-1.stream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Fashion_TV
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7785.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_3_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2954.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_Action_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2961.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_Bombay
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/4688.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_Channel_8
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3991.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_Comedy_Central_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2953.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_DIY_HD_ISRAEL
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7333.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_Drama_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2960.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_Entertainment
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2959.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_Food_Channel
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3987.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_Fun_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2958.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_Gold_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2957.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_HBO
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7168.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_HOP
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/5317.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_JUNIOR
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/5318.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_REAL
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/10132.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_Teen_nick
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7225.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",HOT_Zone_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2955.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/OzjftEl.png" group-title="Undefined",Hala TV (1080p) [Not 24/7]
+https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/OzjftEl.png" group-title="Undefined",Hala TV (1080p) [Not 24/7]
+https://live2.panet.co.il/edge_abr/halaTV/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/wKi97Pg.png" group-title="Religious",Hidabroot (576p)
+https://stream5.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/wKi97Pg.png" group-title="Religious",Hidabroot (576p)
+https://stream72.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/wKi97Pg.png" group-title="Religious",Hidabroot (576p) [Not 24/7]
+https://stream71.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Hot_bolywood
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7784.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Humor Chanenell
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/8306.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",ISRAEL_Channel_11_Kan
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3151.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",ISRAEL_Channel_12_Keshet
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3204.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",ISRAEL_Channel_13_Reshet
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7215.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="News",ISRAEL_Channel_2_News
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3203.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",KESHET_12_HQ
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7501.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",KNESET_CHANNELL
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/9525.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Kabalah
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/8291.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="Undefined",Kabbalah for the People (Israel)
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="Undefined",Kabbalah for the People (Israel)
+https://edge2.uk.kab.tv/rtplive/tv66-heb-medium.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="Undefined",Kabbalah for the People (Israel)
+https://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="Undefined",Kabbalah for the People (Israel) (504p)
+https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/vqfNbEU.png" group-title="Undefined",Kan 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" group-title="Education;Kids",ch 23 החינוכית,Kan Educational
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Music",MUSIC IL
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/77199.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",MUTV
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/80137.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",National Geographic [Geo]
+http://s1-p3.peer5.net/edge/13-1.stream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",ONE 4K
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/75002.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",ONE_II
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7788.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",RESHET_13_HQ
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7500.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="Undefined",Reshet 13 (720p)
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",TURKISH DRAMA 2
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/77195.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",TURKISH_DRAMA
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/10067.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES MOVIES ACTION
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7173.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES MOVIES COMEDY
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7175.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES MOVIES DRAMA
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7172.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Kids",YES MOVIES KIDS
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7176.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES TV  DRAMA
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7182.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES TV ACTION
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7181.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES TV COMEDY
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7183.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_Baby_TV
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2963.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_CBS
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/6644.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_Discovery_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3990.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_Disney_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3989.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_Disney_Junior
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3988.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_Docu_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2950.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_FOOD_CHANNEL
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/5315.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_Good_Life
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3986.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_Health_Channel
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3985.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_History_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3984.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_Home_Plus
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3983.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_Hop
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3982.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_NG_Wild
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3972.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_National_Geographic_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/5313.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_Nick_Jr
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2967.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_Nickelodeon
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2968.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_ONE_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2942.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES_SPORT_1_HQ
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7193.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES_SPORT_2_HQ
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7194.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES_SPORT_3_HQ
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7791.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES_SPORT_4_HQ
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7332.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES_SPORT_ONE_HQ
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7503.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES_Sport_1_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2943.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES_Sport_2_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2944.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES_Sport_5_Gold
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3971.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES_Sport_5_Plus_Live_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2946.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES_Sport_5_Stars
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2945.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_VIVA
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3970.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_VIVA_Plus
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3969.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_Yam_Tihoni
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3968.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES_ZOOM
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3967.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",Yes_Sport_3_hd
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/6758.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",Yes_Sport_5plus (1080)
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/6759.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes_Wiz
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/6643.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes_animal_planet
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7165.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",Yes_sport_5_HD
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/8026.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes_stars
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7159.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Ynet Live
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",bollywood_hd
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7160.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",yes_extreme
+http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7162.ts?checkedby:iptvcat.com
